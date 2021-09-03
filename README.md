@@ -22,7 +22,7 @@
 <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "vitoriamartins0@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
-
+  ![Snake animation](https://github.com/vitoriaprojeto2/vitoriaprojeto2/blob/output/github-contribution-grid-snake.svg)
  
  
 </div>
