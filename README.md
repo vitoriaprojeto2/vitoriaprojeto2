@@ -10,6 +10,7 @@
   <img align="center" alt="Vitoria-CSS" height="40" width="50" src="https://www.pyramidanalytics.com/images/default-source/pyramid-2020/pyramid_logo_horizontal_dark_110119.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <img align="center" alt="Vitoria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitoria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitoria-BP" height="30" width="40" src="https://www-cdn.winshuttle.com/wp-content/uploads/2019/05/bp-logo.png">
 
   
   ##
